@@ -1,0 +1,16 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+#myCanvas
+{
+    border-width: 20px;
+    background-color: aqua;
+    border-style:outset;
+    border-color:magenta;
+    border-radius: 5px;
+}
+
